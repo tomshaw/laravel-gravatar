@@ -1,0 +1,1 @@
+@gravatar(email: 'email@example.com', size: 80, default: 'mp', rating: 'pg')

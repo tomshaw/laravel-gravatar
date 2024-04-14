@@ -1,0 +1,60 @@
+{
+    "name": "tomshaw/laravel-gravatar",
+    "description": "A zero config named parameter Laravel Gravatar Directive.",
+    "keywords": [
+        "laravel",
+        "livewire"
+    ],
+    "homepage": "https://github.com/tomshaw/laravel-gravatar",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tom Shaw",
+            "email": "tomshaw@tomshaw.us",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+        "laravel/framework": "^10.0|^11.0"
+    },
+    "require-dev": {
+        "larastan/larastan": "^2.9",
+        "laravel/pint": "^1.14",
+        "nunomaduro/collision": "^8.1",
+        "orchestra/testbench": "9.x-dev",
+        "pestphp/pest": "3.x-dev"
+    },
+    "autoload": {
+        "psr-4": {
+            "TomShaw\\Gravatar\\": "src"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "TomShaw\\Gravatar\\Tests\\": "tests"
+        }
+    },
+    "scripts": {
+        "analyse": "vendor/bin/phpstan analyse --ansi --memory-limit=-1",
+        "baseline": "vendor/bin/phpstan analyse --ansi --memory-limit=-1 --generate-baseline --allow-empty-baseline",
+        "format": "vendor/bin/pint --config pint.json",
+        "test": "vendor/bin/pest",
+        "test-coverage": "vendor/bin/pest --coverage"
+    },
+    "config": {
+        "sort-packages": true,
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TomShaw\\Gravatar\\Providers\\GravatarServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}

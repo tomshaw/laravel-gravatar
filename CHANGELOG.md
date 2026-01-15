@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.2.1](https://github.com/tomshaw/laravel-gravatar/compare/v0.2.0...v0.2.1) (2026-01-15)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/checkout from 4 to 6 ([fc1898e](https://github.com/tomshaw/laravel-gravatar/commit/fc1898ec6c7d7e9b9cb4b54698e9f9ac21428815))
+* **deps:** bump aglipanci/laravel-pint-action from 2.5 to 2.6 ([82ba50c](https://github.com/tomshaw/laravel-gravatar/commit/82ba50c44de7f70bd03f6ca015df8b974f0fecd2))
+* **deps:** bump stefanzweifel/git-auto-commit-action from 5 to 7 ([f3186eb](https://github.com/tomshaw/laravel-gravatar/commit/f3186eb516803cf2eef99dc28827d30b3b30b794))
+
 ## [0.2.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.1.2...v0.2.0) (2025-03-11)
 
 

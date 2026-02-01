@@ -12,7 +12,7 @@ beforeEach(function () {
 });
 
 it('generates a valid gravatar url', function () {
-    $gravatar = new Gravatar();
+    $gravatar = new Gravatar;
 
     $url = $gravatar->src($this->email);
 
@@ -27,7 +27,7 @@ it('generates a valid gravatar url', function () {
 });
 
 it('throws an exception for an invalid email', function () {
-    $gravatar = new Gravatar();
+    $gravatar = new Gravatar;
 
     $gravatar->src('invalid-email');
 })->throws(InvalidArgumentException::class);

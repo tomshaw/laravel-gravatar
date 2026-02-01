@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.2.2](https://github.com/tomshaw/laravel-gravatar/compare/v0.2.1...v0.2.2) (2026-02-01)
+
+
+### Bug Fixes
+
+* remove unnecessary parentheses when instantiating Gravatar ([be59e42](https://github.com/tomshaw/laravel-gravatar/commit/be59e42edafd7e60e0eb1045b862ad21fb18ea8c))
+* update larastan version to ^3.1 in workflow configuration ([13257cd](https://github.com/tomshaw/laravel-gravatar/commit/13257cdc9e1c8ea07ec9ef30e56b40cae7798896))
+
+
+### Miscellaneous Chores
+
+* update PHP and Laravel versions, enhance issue templates, and improve workflow configurations ([b356ee4](https://github.com/tomshaw/laravel-gravatar/commit/b356ee4badce47dc43205c63bf29aa0150de277b))
+
 ## [0.2.1](https://github.com/tomshaw/laravel-gravatar/compare/v0.2.0...v0.2.1) (2026-01-15)
 
 

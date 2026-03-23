@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.3.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.2.2...v0.3.0) (2026-03-23)
+
+
+### Features
+
+* update Laravel framework and testbench versions in composer.json and workflow configuration ([7a8ae1e](https://github.com/tomshaw/laravel-gravatar/commit/7a8ae1ebcdd89384072b865ff71efa82b1021b6d))
+
+
+### Bug Fixes
+
+* downgrade actions/checkout from v6 to v5 in workflow configurations ([e573736](https://github.com/tomshaw/laravel-gravatar/commit/e573736332be53b33b078d910a7c6ee7947893c5))
+
 ## [0.2.2](https://github.com/tomshaw/laravel-gravatar/compare/v0.2.1...v0.2.2) (2026-02-01)
 
 

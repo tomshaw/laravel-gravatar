@@ -1,10 +1,11 @@
 <?php
 
 use Illuminate\Support\Facades\View;
+use PHPUnit\Framework\TestCase;
 use TomShaw\Gravatar\Services\Gravatar;
 
 test('instance check', function () {
-    $this->assertTrue($this instanceof \PHPUnit\Framework\TestCase);
+    $this->assertTrue($this instanceof TestCase);
 });
 
 beforeEach(function () {

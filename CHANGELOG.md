@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.4.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.3.0...v0.4.0) (2026-04-04)
+
+
+### Features
+
+* standardize CI workflows and update dependencies for Laravel 13 ([c495bae](https://github.com/tomshaw/laravel-gravatar/commit/c495bae925c903982ba5b0c5a3b5058bb3ba201c))
+
 ## [0.3.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.2.2...v0.3.0) (2026-03-23)
 
 

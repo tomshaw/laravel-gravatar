@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.6.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.5.0...v0.6.0) (2026-04-04)
+
+
+### Features
+
+* apply pint code style fixes ([8383bd6](https://github.com/tomshaw/laravel-gravatar/commit/8383bd675244b8a283148e9fd58260be67d39c6d))
+
 ## [0.5.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.4.0...v0.5.0) (2026-04-04)
 
 

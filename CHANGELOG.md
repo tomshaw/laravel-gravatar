@@ -1,5 +1,14 @@
 # Changelog
 
+## [0.5.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.4.0...v0.5.0) (2026-04-04)
+
+
+### Features
+
+* apply pint code style fixes and update linting workflow ([4722577](https://github.com/tomshaw/laravel-gravatar/commit/47225776d71382efe3885a6e68cd944466d08f4f))
+* fix pint workflow to use project config and revert incorrect style changes ([58eafd7](https://github.com/tomshaw/laravel-gravatar/commit/58eafd7eecf60d7bf423281eedf5cad5112955b1))
+* use project pint version in CI instead of external action ([11e1466](https://github.com/tomshaw/laravel-gravatar/commit/11e1466286bff71d3cde813ac697e15accfb9436))
+
 ## [0.4.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.3.0...v0.4.0) (2026-04-04)
 
 

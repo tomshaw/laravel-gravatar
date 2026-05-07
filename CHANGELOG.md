@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.7.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.6.0...v0.7.0) (2026-05-07)
+
+
+### Features
+
+* 🚀 upgrade to Laravel 13 and PHP 8.5 ([b229f6b](https://github.com/tomshaw/laravel-gravatar/commit/b229f6b86f8d0228de5d5a01508d164007a5bab3))
+
+
+### Miscellaneous Chores
+
+* **deps:** bump googleapis/release-please-action from 4 to 5 ([e87ddb0](https://github.com/tomshaw/laravel-gravatar/commit/e87ddb06656faacdc1b4b9a11ab038ccf57fcdf4))
+* **deps:** bump googleapis/release-please-action from 4 to 5 ([5eaba61](https://github.com/tomshaw/laravel-gravatar/commit/5eaba61f901ae73e295e8d204e58347f8b2d1f92))
+
 ## [0.6.0](https://github.com/tomshaw/laravel-gravatar/compare/v0.5.0...v0.6.0) (2026-04-04)
 
 

@@ -57,7 +57,8 @@ The default parameters are described below:
 
 ## Requirements
 
-The package is compatible with PHP 8 or later.
+- PHP 8.5
+- Laravel 13.0
 
 ## License
 
